@@ -19,6 +19,6 @@ Completed user stories:
 Notes:
 
 There were some issues with the staggered grid view. There were a bug that made one column
-disappear if you scrolled too quickly. Another that hides images until you scrolled way past them. 
+disappear if you scrolled too quickly. Another that hides images until you scroll way past them. 
 
 You can see a video of the app here: https://www.youtube.com/watch?v=B5VbasXcKjc&feature=youtu.be
